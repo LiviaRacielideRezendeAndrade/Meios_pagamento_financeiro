@@ -1,5 +1,5 @@
 # Meios_pagamento_financeiro 
-Analise da evolução dos meios de pagamentos financeiro no Brasil, físico x digital
+Evolução do uso dos canais de pagamentos financeiros no Brasil, físico x digital
 
 Fonte: dados abertos do BACEN: dadosabertos.bcb.gov
 Data: abril de 2025
